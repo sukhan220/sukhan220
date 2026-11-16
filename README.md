@@ -88,4 +88,4 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
     <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=10B981" />
     <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
   </p>
-</div><img width="960" height="720" alt="logo" src="https://github.com/user-attachments/assets/20901f9d-922b-4985-842f-6832914990f8" />
+</div>
