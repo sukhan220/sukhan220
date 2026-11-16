@@ -22,7 +22,7 @@
 https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
 
 <p align="justify">
-  An interactive mathematics visualization and <strong>Proof Studio</strong> built from scratch with <strong>Next.js, TypeScript, Three.js, and HTML5 Canvas</strong>—bridging abstract mathematical theory and real-time visual intuition across combinatorics, fractals, calculus, linear algebra, and Euclidean geometry.
+  An interactive mathematics visualization and <strong>Proof Studio</strong> built from scratch with <strong>Next.js, TypeScript, Three.js, and Canvas</strong> bridging abstract mathematical theory and real-time visual intuition across combinatorics, fractals, calculus, linear algebra, and Euclidean geometry.
 </p>
 
 <p align="center">
