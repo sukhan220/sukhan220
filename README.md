@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Shahab Uddin Khan</h1>
+  <h1>SHAHAB UDDIN KHAN</h1>
   <p><strong>Full-Stack AI Developer</strong> • Next.js, React Native, RAG & Autonomous Agents</p>
-  <p>shahabuddink220@gmail.com </p>
+  <p>📧 <a href="mailto:shahabuddink220@gmail.com">shahabuddink220@gmail.com</a></p>
   <p>
     <a href="https://artamic-math.vercel.app/"><img src="https://img.shields.io/badge/Artamic_Math-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Artamic Math" /></a>
     <a href="https://golpojolpo.com/"><img src="https://img.shields.io/badge/Golpojolpo-0F172A?style=for-the-badge&logo=bookstack&logoColor=10B981" alt="Golpojolpo" /></a>
@@ -11,11 +11,11 @@
 
 ---
 
-## Artamic Math
+##  ARTAMIC MATH
 
 <p align="center">
   <a href="https://artamic-math.vercel.app/">
-    <img width="100%" alt="Artamic Math Banner" src="https://github.com/user-attachments/assets/f286cf9a-d265-45cc-936f-24c9678fdf35" />
+    <img width="750" alt="Artamic Math Banner" src="https://github.com/user-attachments/assets/f286cf9a-d265-45cc-936f-24c9678fdf35" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
 
 ---
 
-## Other Active Platforms
+##  OTHER ACTIVE PLATFORMS
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
       <a href="https://golpojolpo.com/">
         <img src="https://github.com/user-attachments/assets/fda7e57e-5eb5-41df-ae9a-ffd9f7ccc88a" alt="Golpojolpo Logo" width="110" />
       </a>
-      <h3><a href="https://golpojolpo.com/">Golpojolpo (গল্পজল্প)</a></h3>
+      <h3><a href="https://golpojolpo.com/">GOLPOJOLPO (গল্পজল্প)</a></h3>
       <p>Cross-platform React Native & Expo mobile app and web reader for Bengali audiobooks, e-books, and interactive AI voice storytelling.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=38BDF8" />
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
       <a href="https://dugoutadda.com/">
         <img src="https://github.com/user-attachments/assets/0e05e496-6632-455d-bd45-5ecdf8a33347" alt="Dugout Adda Logo" width="110" />
       </a>
-      <h3><a href="https://dugoutadda.com/">Dugout Adda (ডাগআউট আড্ডা)</a></h3>
+      <h3><a href="https://dugoutadda.com/">DUGOUT ADDA (ডাগআউট আড্ডা)</a></h3>
       <p>Interactive football news portal, live match hub, and AI-powered sports gaming platform built with Next.js, PostgreSQL & Gemini API.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
 ---
 
 <div align="center">
-  <h3>Core Tech Stack</h3>
+  <h3> CORE TECH STACK</h3>
   <p>
     <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Native-1E293B?style=for-the-badge&logo=react&logoColor=38BDF8" />
