@@ -21,7 +21,7 @@
 
 https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
 
-<p align="center">
+<p align="justify">
   An interactive mathematics visualization and <strong>Proof Studio</strong> built from scratch with <strong>Next.js, TypeScript, Three.js, and HTML5 Canvas</strong>—bridging abstract mathematical theory and real-time visual intuition across combinatorics, fractals, calculus, linear algebra, and Euclidean geometry.
 </p>
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
         <img src="https://github.com/user-attachments/assets/fda7e57e-5eb5-41df-ae9a-ffd9f7ccc88a" alt="Golpojolpo Logo" width="110" />
       </a>
       <h3><a href="https://golpojolpo.com/">GOLPOJOLPO (গল্পজল্প)</a></h3>
-      <p>Cross-platform React Native & Expo mobile app and web reader for Bengali audiobooks, e-books, and interactive AI voice storytelling.</p>
+      <p align="justify">Cross-platform React Native & Expo mobile app and web reader for Bengali audiobooks, e-books, and interactive AI voice storytelling.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-1E293B?style=flat-square&logo=cloudflare&logoColor=F59E0B" />
@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
         <img src="https://github.com/user-attachments/assets/0e05e496-6632-455d-bd45-5ecdf8a33347" alt="Dugout Adda Logo" width="110" />
       </a>
       <h3><a href="https://dugoutadda.com/">DUGOUT ADDA (ডাগআউট আড্ডা)</a></h3>
-      <p>Interactive football news portal, live match hub, and AI-powered sports gaming platform built with Next.js, PostgreSQL & Gemini API.</p>
+      <p align="justify">Interactive football news portal, live match hub, and AI-powered sports gaming platform built with Next.js, PostgreSQL & Gemini API.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8" />
