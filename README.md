@@ -5,7 +5,7 @@
     <a href="https://artamic-math.vercel.app/"><img src="https://img.shields.io/badge/Artamic_Math-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Artamic Math" /></a>
     <a href="https://golpojolpo.com/"><img src="https://img.shields.io/badge/Golpojolpo-0F172A?style=for-the-badge&logo=bookstack&logoColor=10B981" alt="Golpojolpo" /></a>
     <a href="https://dugoutadda.com/"><img src="https://img.shields.io/badge/Dugout_Adda-1E293B?style=for-the-badge&logo=soccer&logoColor=38BDF8" alt="Dugout Adda" /></a>
-    <a href="mailto:shahabuddink220@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
   </p>
 </div>
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
     <td width="50%" valign="top" align="center">
       <br />
       <a href="https://golpojolpo.com/">
-        <img src="GOLPOJOLPO_LOGO_URL_HERE" alt="Golpojolpo Logo" width="110" />
+        <img src="https://github.com/user-attachments/assets/fda7e57e-5eb5-41df-ae9a-ffd9f7ccc88a" alt="Golpojolpo Logo" width="110" />
       </a>
       <h3><a href="https://golpojolpo.com/">Golpojolpo (গল্পজল্প)</a></h3>
       <p>Cross-platform React Native & Expo mobile app and web reader for Bengali audiobooks, e-books, and interactive AI voice storytelling.</p>
@@ -56,8 +56,8 @@ https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
     </td>
     <td width="50%" valign="top" align="center">
       <br />
-      <a href="https://dugoutadda.com/">
-        <img src="DUGOUT_ADDA_LOGO_URL_HERE" alt="Dugout Adda Logo" width="110" />
+      <a href="https://dugoutadda.com
+        <img src="https://github.com/user-attachments/assets/3a5b4a99-becc-4391-b7bd-c9450c5f13d6" alt="Dugout Adda Logo" width="110" />
       </a>
       <h3><a href="https://dugoutadda.com/">Dugout Adda (ডাগআউট আড্ডা)</a></h3>
       <p>Interactive football news portal, live match hub, and AI-powered sports gaming platform built with Next.js, PostgreSQL & Gemini API.</p>
